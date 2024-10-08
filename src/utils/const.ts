@@ -1,0 +1,47 @@
+export const googleFonts = [
+  { label: "Roboto", value: "Roboto" },
+  { label: "Open Sans", value: "Open Sans" },
+  { label: "Noto Sans JP", value: "Noto Sans JP" },
+  { label: "Montserrat", value: "Montserrat" },
+  { label: "Lato", value: "Lato" },
+  { label: "Poppins", value: "Poppins" },
+  { label: "Roboto Condensed", value: "Roboto Condensed" },
+  { label: "Inter", value: "Inter" },
+  { label: "Roboto Mono", value: "Roboto Mono" },
+  { label: "Oswald", value: "Oswald" },
+  { label: "Raleway", value: "Raleway" },
+  { label: "Noto Sans", value: "Noto Sans" },
+  { label: "Nunito Sans", value: "Nunito Sans" },
+  { label: "Roboto Slab", value: "Roboto Slab" },
+  { label: "Ubuntu", value: "Ubuntu" },
+  { label: "Nunito", value: "Nunito" },
+  { label: "Playfair Display", value: "Playfair Display" },
+  { label: "Merriweather", value: "Merriweather" },
+  { label: "Rubik", value: "Rubik" },
+  { label: "PT Sans", value: "PT Sans" },
+  { label: "Kanit", value: "Kanit" },
+  { label: "Arial", value: "Arial" },
+  { label: "Times", value: "Times" },
+  { label: "Palatino", value: "Palatino" },
+  { label: "Garamond", value: "Garamond" },
+];
+
+export const fontWeights = [
+  { label: "100", value: "100" },
+  { label: "200", value: "200" },
+  { label: "300", value: "300" },
+  { label: "400", value: "400" },
+  { label: "500", value: "500" },
+  { label: "600", value: "600" },
+  { label: "700", value: "700" },
+  { label: "800", value: "800" },
+  { label: "900", value: "900" },
+];
+
+export const fontSizes = [
+  { label: "Extra Small", value: "12px" },
+  { label: "Small", value: "16px" },
+  { label: "Medium", value: "24px" },
+  { label: "Large", value: "32px" },
+  { label: "Extra Large", value: "48px" },
+];
